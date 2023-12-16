@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/callPayment"
+  },
+  "response": {
+    "status": 200,
+    "body": "Payment methods GET and POST"
+  }
+}
