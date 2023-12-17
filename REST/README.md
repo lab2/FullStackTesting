@@ -9,3 +9,6 @@ Install [RESTer](https://addons.mozilla.org/de/firefox/addon/rester/) to verify 
 
 `POST` http://localhost:8080/makePayment
 `GET` http://localhost:8080/callPayment
+
+The simple tests can be run via SOAPUI and the according testplan
+
